@@ -8,8 +8,8 @@
       tags:
         - copy
 
-    - name: Sleep 30 sec
-      command: sleep 30
+    - name: Sleep 10 sec
+      command: sleep 10
       tags: 
         - sleep
 
